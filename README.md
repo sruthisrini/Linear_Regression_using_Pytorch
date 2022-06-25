@@ -1,3 +1,3 @@
 # Linear_Regression
 
-reference from Python-engineer
+reference from python-engineer
